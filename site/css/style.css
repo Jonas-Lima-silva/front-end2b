@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(250, 250, 250);
+    text-align:center;
+    width: 700;
+    height: 700px;
+
+}
+img{
+    width: 25vw;
+    margin: auto;
+    min-width: 275px;
+}
